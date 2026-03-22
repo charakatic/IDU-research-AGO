@@ -5,7 +5,6 @@
 
 | Название файла | Описание |
 | :---------------------- | :---------------------- |
-
 | [Правила землепользования и застройки Приозерска, ЗОУИТ](https://github.com/charakatic/IDU-research-AGO/blob/main/%D0%9F%D0%97%D0%97%20%D0%97%D0%9E%D0%A3%D0%98%D0%A2%20%D0%9F%D1%80%D0%B8%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA.shp) | Приозерск. Исходные данные - ПЗЗ|
 | [Линии движения транспорта, генплан](https://github.com/charakatic/IDU-research-AGO/blob/main/%D0%93%D0%9F%20PublicTransportLine.geojson) | Приозерск. Исходные данные - генплан|
 | [Улицы, генплан](https://github.com/charakatic/IDU-research-AGO/blob/main/%D0%93%D0%9F%20Street.geojson) | Приозерск. Исходные данные - генплан|
